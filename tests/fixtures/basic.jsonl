@@ -1,0 +1,5 @@
+{"id":1,"role":"user","tags":["a","b"]}
+{"id":2,"role":"assistant"}
+
+not json
+{"id":5,"role":"user"}

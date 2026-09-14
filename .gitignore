@@ -12,4 +12,4 @@
 
 # Local scratch data
 *.jsonl
-!fixtures/*.jsonl
+!tests/fixtures/*.jsonl
